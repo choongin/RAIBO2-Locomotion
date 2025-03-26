@@ -7,14 +7,6 @@ This repository contains the simulation code for RAIBO2, a highly efficient quad
 As stated in our publication, we are making the simulation code for RAIBO2 locomotion available upon reasonable request. This repository serves as the central location for code distribution to researchers who wish to build upon our work.
 
 
-
-## Citation
-If you use this code in your research, please cite our paper:
-
-```
-[Authors]. (2025). RAIBO2: Highly efficient quadruped robot completing full marathon with a single battery charge. Nature, [volume](issue), [pages]. https://doi.org/[DOI]
-```
-
 ## Data Availability
 All data presented in the paper are available at https://doi.org/10.5281/zenodo.14825866.
 
